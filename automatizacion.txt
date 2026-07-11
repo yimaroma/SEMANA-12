@@ -1,0 +1,15 @@
+Se puede implementar una automatización usando n8n o Telegram.
+
+Evento:
+Cuando se registra una nueva causa en la plataforma.
+
+Mensaje:
+“Nueva causa creada en la plataforma. Revisa y apoya esta iniciativa comunitaria.”
+
+Acción:
+El sistema envía automáticamente una notificación a un canal o grupo.
+
+Información que no debe enviarse:
+No se deben compartir datos personales como números de cédula, teléfonos, direcciones, correos electrónicos ni información sensible de los usuarios.
+
+Esta automatización permite informar a la comunidad de manera rápida y segura.
