@@ -1,0 +1,17 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy importante para fortalecer la participación ciudadana.
+
+A través de plataformas digitales, las comunidades pueden organizarse, expresar sus necesidades y apoyar causas de manera más fácil.
+
+También comprendí la importancia de usar bases de datos para organizar la información de forma segura.
+
+La autenticación de usuarios permite proteger el acceso y evitar usos indebidos.
+
+Además, aprendí que es fundamental cuidar los datos personales y no compartir información sensible.
+
+La automatización ayuda a mejorar la comunicación y hacer procesos más rápidos.
+
+Herramientas como n8n o Telegram permiten enviar notificaciones de manera eficiente.
+
+Todo esto contribuye a crear plataformas útiles, seguras y accesibles.
+
+En conclusión, la tecnología bien utilizada puede generar impacto positivo en la comunidad.
